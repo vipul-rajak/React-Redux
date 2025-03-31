@@ -1,21 +1,15 @@
-# React-WeatherApp
+#Redux Guide
 
-React Weather App is a simple and interactive weather application that provides real-time weather updates based on user input.
-FeaturesSearch weather by city name
-Display temperature, humidity, and weather conditions
-Responsive and user-friendly UI
-API integration for real-time weather updates
-Tech StackFrontend: React.js, CSS
+A simple guide and starter template for using Redux in React applications.
 
 
-UsageOpen the app in your browser at http://localhost:3000
-Enter a city name to get weather details
-View temperature, humidity, and weather conditions
+FeaturesState management using Redux
+Action creators and reducers
+Store integration with React
+Middleware support (Redux Thunk)
 
-ContributingContributions are welcome! Follow these steps:
-Fork the repository
-Create a new branch (feature-branch)
-Commit your changes
-Push to the branch
-Open a Pull Request
 
+Tech StackReact.js
+Redux
+Redux Toolkit
+Redux Thunk (for async actions)
